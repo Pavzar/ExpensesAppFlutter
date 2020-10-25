@@ -1,3 +1,3 @@
 # ExpensesAppFlutter
 
-My first app on flutter
+Flutter test app
